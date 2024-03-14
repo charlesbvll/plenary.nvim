@@ -638,7 +638,7 @@ return {
     ['vhost'] = [[apache]],
     ['matah'] = [[stata]],
     ['ronn'] = [[markdown]],
-    ['tpl'] = [[smarty]],
+    ['tpl'] = [[python]],
     ['xhtml'] = [[html]],
     ['bones'] = [[javascript]],
     ['bats'] = [[sh]],
